@@ -32,7 +32,8 @@ doruk = {
   [`subdomain-scanner`](https://github.com/dorukcodes/subdomain-scanner) — fast subdomain discovery tool with threading
 
   [`ip-intelligence-tool`](https://github.com/dorukcodes/ip-intelligence-tool) — simple IP / domain intelligence tool
-
+  
+  [`doruk-osint-tool`](https://github.com/dorukcodes/doruk-osint-tool) — GUI-based OSINT tool for username reconnaissance across multiple platforms
 
 ---
 
