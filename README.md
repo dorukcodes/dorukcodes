@@ -27,7 +27,12 @@ doruk = {
 
 **projects**
 
-&nbsp;&nbsp;[`python-port-scanner`](https://github.com/dorukcodes) — multi-threaded scanner with banner grabbing, zero dependencies on nmap
+  [`python-port-scanner`](https://github.com/dorukcodes/python-port-scanner) — multi-threaded scanner with banner grabbing, zero dependencies on nmap
+
+  [`subdomain-scanner`](https://github.com/dorukcodes/subdomain-scanner) — fast subdomain discovery tool with threading
+
+  [`ip-intelligence-tool`](https://github.com/dorukcodes/ip-intelligence-tool) — simple IP / domain intelligence tool
+
 
 ---
 
