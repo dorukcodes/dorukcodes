@@ -1,3 +1,4 @@
+![typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=IT+Student;Python+Developer;Cybersecurity+Learner)
 # hey, i'm doruk
 
 i'm studying IT and also improving myself in software development. i'm actively building projects and trying to move forward step by step.
