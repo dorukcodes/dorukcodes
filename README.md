@@ -33,7 +33,7 @@ doruk = {
 
   [`ip-intelligence-tool`](https://github.com/dorukcodes/ip-intelligence-tool) — simple IP / domain intelligence tool
   
-  [`doruk-osint-tool`](https://github.com/dorukcodes/doruk-osint-tool) — GUI-based OSINT tool for username reconnaissance across multiple platforms
+  [`doruk-osint-tool`](https://github.com/dorukcodes/osint_username.py) — GUI-based OSINT tool for username reconnaissance across multiple platforms
   
   [`nightwatch tool`](https://github.com/dorukcodes/nightwatch) — Network & Log Threat Analyzer — Web sunucu loglarında güvenlik tehditlerini tespit eden Python CLI aracı
 
